@@ -1,0 +1,17 @@
+﻿username-Yinnwelatt
+email   -yinlatt3@gmail.com
+passward12345HubYn
+
+
+git init
+git add .
+git config -global user.email "useremail"
+git config -global user. name "username"
+git commit -m "first commit"
+git remote add origin http://github.com/Yinnwelatt/PythonSample.git
+git push -u origin master
+
+
+git add .
+git comm it -m "second commit"
+git push
